@@ -1,5 +1,5 @@
 # BreweryAPI
-ASP.NET local API, connection by local IP address.
+ASP.NET local API, connection by local IP address using SignalR lib.
 
 Using Brewery.sql MS SQL Database.
 
