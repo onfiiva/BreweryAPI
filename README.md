@@ -1,7 +1,15 @@
 # BreweryAPI
 ASP.NET local API, connection by local IP address.
 
-Have some features as:
+Using Brewery.sql MS SQL Database.
+
+DB have some features as:
+
+- Columns for logical delete;
+- Token table to use tokens;
+- User and Admin have salt fields;
+
+API have some features as:
 
 - CRUD requests; User and Admin generates salt via POST request to encrypt the password.
 - GET by ID requests;
